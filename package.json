@@ -19,9 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/servaas101/jirahproconsultants.co.za"
+    "url": "https://github.com/odindescent/jirahproconsultants.co.za"
   },
   "bugs": {
-    "url": "https://github.com/servaas101/jirahproconsultants.co.za/issues"
+    "url": "https://github.com/odindescent/jirahproconsultants.co.za/issues"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.11.0"
   }
 }
